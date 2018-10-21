@@ -4428,10 +4428,11 @@
   },
   "libraries": {
     "Google.Protobuf/3.5.1": {
-      "sha512": "f2k1VNaB9bfvEsvARzzEL1TZiIpL33KKK3JMH7UANlPlJVptuvsk4qpBZEnz0pORWZOdUHlVwMQuUzFqjJYCxA==",
+      "sha512": "j/gbpRZ68sgvdi/vXI39Cj/jWG4d1dtDqfWbkjC9dErNWu/dFcIlq1LIgLscea+llZ6nzm06wz/JGziOegAL7Q==",
       "type": "package",
       "path": "google.protobuf/3.5.1",
       "files": [
+        ".signature.p7s",
         "google.protobuf.3.5.1.nupkg.sha512",
         "google.protobuf.nuspec",
         "lib/net45/Google.Protobuf.dll",
@@ -6871,10 +6872,11 @@
       ]
     },
     "MySql.Data/8.0.12": {
-      "sha512": "I2jGfuyeomrGJ+N9O+vuV2ucyeayf/tMFREKPdjUcs1/wUF0t+WgUnnzJmJl4sNePNR1fEvAGaGbVAo4uLSF2A==",
+      "sha512": "vcVmD7C/socXjlyzY2vjF+bq/NdxrMtQqPym9pZxk6qfUK7dq/KX8XrY/wa5TYp3IHM1JR0UzEfBKNCGmtr1Lg==",
       "type": "package",
       "path": "mysql.data/8.0.12",
       "files": [
+        ".signature.p7s",
         "lib/net452/MySql.Data.dll",
         "lib/net452/MySql.Data.xml",
         "lib/netcoreapp2.0/MySql.Data.dll",
@@ -7082,10 +7084,11 @@
       ]
     },
     "Pomelo.JsonObject/2.0.0": {
-      "sha512": "5udTrGULDbHLx3Xb2DAqeeMTPxPu9TmeS6RAanMeRXOKZn3FRrBVd+Vg8TeTB0QIk1Q0su8mgsmN39O4iYca1Q==",
+      "sha512": "sMN9ETMoYfqCegOCVkOkOkfXK3ceH8nWkSeZPgLwfnx6UnqVXTl/ScIZs+x5Q8qgiPmYYCPmtolxNQ0QrcU97g==",
       "type": "package",
       "path": "pomelo.jsonobject/2.0.0",
       "files": [
+        ".signature.p7s",
         "lib/netstandard2.0/Pomelo.JsonObject.dll",
         "pomelo.jsonobject.2.0.0.nupkg.sha512",
         "pomelo.jsonobject.nuspec"
@@ -7755,10 +7758,11 @@
       ]
     },
     "System.Configuration.ConfigurationManager/4.4.1": {
-      "sha512": "jz3TWKMAeuDEyrPCK5Jyt4bzQcmzUIMcY9Ud6PkElFxTfnsihV+9N/UCqvxe1z5gc7jMYAnj7V1COMS9QKIuHQ==",
+      "sha512": "LoSjM/kLDpyLyoGsmwS5oVMRzHf/0XHkRpr3QZu/HuAv6Sfk919usTMLqD9N9VK3S4Q2+bd3tKJ0ko4MYFfq4Q==",
       "type": "package",
       "path": "system.configuration.configurationmanager/4.4.1",
       "files": [
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net461/System.Configuration.ConfigurationManager.dll",
@@ -10577,10 +10581,11 @@
       ]
     },
     "System.Security.Cryptography.ProtectedData/4.4.0": {
-      "sha512": "cJV7ScGW7EhatRsjehfvvYVBvtiSMKgN8bOVI0bQhnF5bU7vnHVIsH49Kva7i7GWaWYvmEzkYVk1TC+gZYBEog==",
+      "sha512": "WwEexvBd+17yfY7fcS+fBGl+HADEfCJuKeDJqBT7D6j6vKwYvfLyGuq2y/MmrKORC6mbYwth7kjinO1mPhTL3g==",
       "type": "package",
       "path": "system.security.cryptography.protecteddata/4.4.0",
       "files": [
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -11717,23 +11722,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lupit\\.nuget\\packages\\": {},
+    "C:\\Users\\twelv\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lupit\\source\\repos\\SarcopeniaWS\\SarcopeniaWS\\SarcopeniaWS.csproj",
+      "projectUniqueName": "C:\\Users\\twelv\\Source\\Repos\\Jesuscc9\\Sarcopenia.WS\\SarcopeniaWS\\SarcopeniaWS.csproj",
       "projectName": "SarcopeniaWS",
-      "projectPath": "C:\\Users\\lupit\\source\\repos\\SarcopeniaWS\\SarcopeniaWS\\SarcopeniaWS.csproj",
-      "packagesPath": "C:\\Users\\lupit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lupit\\source\\repos\\SarcopeniaWS\\SarcopeniaWS\\obj\\",
+      "projectPath": "C:\\Users\\twelv\\Source\\Repos\\Jesuscc9\\Sarcopenia.WS\\SarcopeniaWS\\SarcopeniaWS.csproj",
+      "packagesPath": "C:\\Users\\twelv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\twelv\\Source\\Repos\\Jesuscc9\\Sarcopenia.WS\\SarcopeniaWS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lupit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\twelv\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
