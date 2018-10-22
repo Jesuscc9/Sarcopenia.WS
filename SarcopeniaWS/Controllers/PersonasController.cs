@@ -13,9 +13,9 @@ namespace SarcopeniaWS.Controllers
     [ApiController]
     public class PersonasController : ControllerBase
     {
-        private readonly DataContext _context;
+        private readonly CipriContext _context;
 
-        public PersonasController(DataContext context)
+        public PersonasController(CipriContext context)
         {
             _context = context;
         }

@@ -32,7 +32,7 @@ namespace SarcopeniaWS
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.ConfigureSwagger();
             var ConString = @"Server=tcp:sipri.database.windows.net,1433;Initial Catalog=Cipri;Persist Security Info=False;User ID=jesus;Password=minecraft#8;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
-            services.AddDbContext<DataContext>(opt => opt.UseSqlServer(ConString));
+            services.AddDbContext<CipriContext>(opt => opt.UseSqlServer(ConString));
 
         }
 
